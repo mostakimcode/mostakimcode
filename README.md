@@ -14,7 +14,7 @@ I'm currently learning Web Development through **Programming Hero** and building
 
 - HTML5
 - CSS3
-- JavaScript *(Learning)*
+- JavaScript *(Currently Learning)*
 
 ## 📌 Current Journey
 
