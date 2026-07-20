@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Mostakim Hossain Hira 👋
 
-<!--
-**mostakimcode/mostakimcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring Full Stack Web Developer
 
-Here are some ideas to get you started:
+I'm currently learning Web Development through **Programming Hero** and building projects to improve my skills every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Current Focus
+
+- 🌱 Learning HTML, CSS & JavaScript
+- 🚀 Building real-world web projects
+- 📚 Improving problem-solving skills
+- 💡 Exploring modern web development
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript *(Learning)*
+
+## 📌 Current Journey
+
+✔ Programming Hero Web Development Course
+
+✔ Building Projects
+
+✔ Learning in Public
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/mostakimcode
+- LinkedIn: https://www.linkedin.com/in/mostakim-code
+
+---
+
+> *"Small progress every day leads to big results."*
