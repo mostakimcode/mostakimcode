@@ -6,7 +6,6 @@ I'm currently learning Web Development through **Programming Hero** and building
 
 ## 🎯 Current Focus
 
-- 🌱 Learning HTML, CSS & JavaScript
 - 🚀 Building real-world web projects
 - 📚 Improving problem-solving skills
 - 💡 Exploring modern web development
