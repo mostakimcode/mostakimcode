@@ -1,22 +1,22 @@
- # Hi there, I'm Mostakim Hossain Hira 👋
+ # Hi there, I'm Mostakim Hossain Hira 
 
- ### 💻 Aspiring Full Stack Web Developer
+ ###  Aspiring Full Stack Web Developer
 
 I'm currently learning Web Development through **Programming Hero** and building projects to improve my skills every day.
 
- ## 🎯 Current Focus
+ ##  Current Focus
 
-- 🚀 Building real-world web projects
-- 📚 Improving problem-solving skills
-- 💡 Exploring modern web development
+-  Building real-world web projects
+-  Improving problem-solving skills
+-  Exploring modern web development
 
- ## 🛠️ Tech Stack
+ ##  Tech Stack
 
 - HTML5
 - CSS3
 - JavaScript *(Currently Learning)*
 
- ## 📌 Current Journey
+ ##  Current Journey
 
 ✔ Programming Hero Web Development Course
 
@@ -24,11 +24,9 @@ I'm currently learning Web Development through **Programming Hero** and building
 
 ✔ Learning in Public
 
- ## 📫 Connect With Me
+ ##  Connect With Me
 
 - GitHub: https://github.com/mostakimcode
 - LinkedIn: https://www.linkedin.com/in/mostakim-code
 
 ---
-
-> *"Small progress every day leads to big results."*
