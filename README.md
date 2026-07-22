@@ -26,7 +26,6 @@ I'm currently learning Web Development through **Programming Hero** and building
 
  ##  Connect With Me
 
-- GitHub: https://github.com/mostakimcode
 - LinkedIn: https://www.linkedin.com/in/mostakim-code
 
 ---
