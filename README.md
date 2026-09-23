@@ -2,7 +2,7 @@
 
  ###  Aspiring Full Stack Web Developer
 
-I'm currently learning Web Development through **Programming Hero** and building projects to improve my skills every day.
+I'm currently learning Web Development and building projects to improve my skills every day.
 
  ##  Current Focus
 
@@ -14,7 +14,9 @@ I'm currently learning Web Development through **Programming Hero** and building
 
 - HTML5
 - CSS3
-- JavaScript *(Currently Learning)*
+- JavaScript
+- Typescript
+- React
 
  ##  Current Journey
 
